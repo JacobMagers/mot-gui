@@ -60,7 +60,7 @@ Snapshot
 
 Demonstration
 ------------
-<iframe width='600' height='338' scrolling='no' frameborder='0' style='border: none;' src='https://www.wevideo.com/embed/#205889857'></iframe>
+https://www.wevideo.com/hub/#media/ci/205889857
     
 Contributors
 ------
